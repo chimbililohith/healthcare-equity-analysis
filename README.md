@@ -4,7 +4,7 @@
 
 > Comprehensive analysis of healthcare accessibility disparities across 3,144 US counties, combining socioeconomic vulnerability data with hospital infrastructure metrics to identify high-priority intervention areas.
 
-![Dashboard Preview](docs/Equity and Access Dashboard.png)
+![Dashboard Preview](docs/Equity_and_Access_Dashboard.png)
 
 ---
 ## Project Overview
@@ -138,7 +138,7 @@ healthcare-equity-analysis/
 ## Visualizations
 
 ### Dashboard 1: Equity and Access Dashboard
-![Executive Summary](docs/Equity and Access Dashboard.png)
+![Equity and Access Dashboard](docs/Equity_and_Access_Dashboard.png)
 
 **Components:**
 - 3 KPI Cards (High-Risk Population, Healthcare Deserts, Average Vulnerability Score)
@@ -149,8 +149,8 @@ healthcare-equity-analysis/
 - Dashboard Navigation (Overview & Tabular View)
 
 
-### Dashboard 2: Detailed Analysis
-![Detailed Analysis](docs/Tabular View.png)
+### Dashboard 2: Tabular View
+![Tabular View](docs/Tabular_View.png)
 
 **Components:**
 - County-Level Analysis Table

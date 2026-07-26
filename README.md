@@ -4,7 +4,7 @@
 
 > Comprehensive analysis of healthcare accessibility disparities across 3,144 US counties, combining socioeconomic vulnerability data with hospital infrastructure metrics to identify high-priority intervention areas.
 
-![Dashboard Preview](docs/Executive_Summary.png)
+![Dashboard Preview](docs/Equity and Access Dashboard.png)
 
 ---
 ## Project Overview
@@ -137,23 +137,35 @@ healthcare-equity-analysis/
 
 ## Visualizations
 
-### Dashboard 1: Executive Summary
-![Executive Summary](docs/Executive_Summary.png)
+### Dashboard 1: Equity and Access Dashboard
+![Executive Summary](docs/Equity and Access Dashboard.png)
 
 **Components:**
-- 4 KPI cards (counties, deserts, population, avg vulnerability)
-- County-level vulnerability heat map
-- Top 20 priority counties table
-- Key findings text
+- 3 KPI Cards (High-Risk Population, Healthcare Deserts, Average Vulnerability Score)
+- Vulnerability Score Histogram
+- Interactive County Map (Vulnerability, Hospital Access, Priority Level)
+- Top 15 States Ranking
+- Hospital Access vs. Vulnerability Scatter Plot
+- Dashboard Navigation (Overview & Tabular View)
+
 
 ### Dashboard 2: Detailed Analysis
-![Detailed Analysis](docs/Detailed_Analysis.png)
+![Detailed Analysis](docs/Tabular View.png)
 
 **Components:**
-- Hospital access categories map
-- Vulnerability vs Access scatter plot
-- State-level vulnerability bar chart
-- Interactive filters
+- County-Level Analysis Table
+    - Displays state, county, risk category, priority level, priority score, healthcare access category, and vulnerability score.
+- Priority Score Visualization
+    - Seven-star rating system used to rank counties based on intervention priority.
+- Healthcare Access Classification
+    - Categorizes counties as Healthcare Desert, Limited Access, or Adequate Access.
+- Risk & Priority Indicators
+    - Color-coded labels highlighting county risk category and intervention priority level.
+- Interactive Filters
+    - Filter by State, County, Priority Score, Risk Category, Priority Level, Access Category, and Vulnerability Score range.
+- Dashboard Navigation
+    - Overview and Tabular View buttons for switching between dashboard pages.
+
 ---
 
 #Author

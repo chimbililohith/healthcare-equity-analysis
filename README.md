@@ -1,6 +1,6 @@
 # Healthcare Access & Equity Analysis
 
-**[View Live Dashboard on Tableau Public →](https://public.tableau.com/views/HealthcareAccessEquityAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[View Live Dashboard on Tableau Public →](https://public.tableau.com/views/HealthcareAccessEquityAnalysis/Dashboard32?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 > Comprehensive analysis of healthcare accessibility disparities across 3,144 US counties, combining socioeconomic vulnerability data with hospital infrastructure metrics to identify high-priority intervention areas.
 
